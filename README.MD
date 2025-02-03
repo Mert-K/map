@@ -1,0 +1,3 @@
+- Demonstration of Map based service. 
+- Bootstrap data via CommandLineRunner interface.
+- Showing bootstrapped data on web page via thymeleaf template engine.
